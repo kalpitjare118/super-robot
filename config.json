@@ -1,6 +1,6 @@
 {
 	"ip":"kalpit11.aternos.me",
-	"port": "25565",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"port": "58756",
+	"name": "AdminBot",
+	"auto-night-skip":"false"
 }
